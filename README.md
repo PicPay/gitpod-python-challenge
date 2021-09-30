@@ -1,8 +1,6 @@
 Python challenge
 
-<a href="https://gitpod.io/from-referrer/" style="padding: 10px;">
-    <img src="https://gitpod.io/button/open-in-gitpod.svg" width="150" alt="Push" align="center">
-</a>
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer/)
 
 Base environment for Python code challenge
 
